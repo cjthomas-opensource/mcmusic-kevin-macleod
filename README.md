@@ -23,7 +23,8 @@ unpacked into a sub-folder within that folder.
 
 # Track List
 
-These are all in the namespace "`mcmusic_kevin_macleod`".
+These are all in the namespace "`mcmusic_kevin_macleod`". In `sounds.json`,
+these are all registered as "`music.kmacleod.(name)`" with type "`record`".
 
 * `amazing_plan`
 * `batty_mcfaddlin`
