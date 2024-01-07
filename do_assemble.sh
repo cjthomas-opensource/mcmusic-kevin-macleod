@@ -30,6 +30,7 @@ rm -f packages/*
 cd output
 zip -r ../packages/MCMusic_Kevin_Macleod.zip *
 cd ..
+sha1sum packages/MCMusic_Kevin_Macleod.zip > packages/MCMusic_Kevin_Macleod.sha1
 
 rm -rf output
 
